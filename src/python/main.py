@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # Histogram of grayscale image
 
 img = cv2.imread(
-    'C:/Users/User/Desktop/LPNU/second-year/semester_2/theory_of_information/laba_1_1/other/orange.png'
+    'change_to_your_path.'
 )
 
 plt.subplot(1, 2, 1)
