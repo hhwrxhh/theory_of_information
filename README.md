@@ -1,2 +1,4 @@
 # theory_of_information
-123
+Laba 2
+
+mkdir image
